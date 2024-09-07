@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/matrixui/core/compare/v1.0.1...v1.0.2) (2024-09-07)
+
+
+### Bug Fixes
+
+* test workflow ([a9eb9d1](https://github.com/matrixui/core/commit/a9eb9d122d1bbf77d72c25421c0dce1bc05de859))
+
 ## [1.0.1](https://github.com/matrixui/core/compare/v1.0.0...v1.0.1) (2024-09-07)
 
 
