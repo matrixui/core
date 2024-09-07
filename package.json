@@ -1,6 +1,6 @@
 {
   "name": "@matrixui/core",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Another Powerful React Component Library",
   "main": "dist/index.js",
   "types": "dist/types/index.d.ts",
