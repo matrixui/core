@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/matrixui/core/compare/v1.0.3...v1.0.4) (2024-09-07)
+
+
+### Bug Fixes
+
+* test ([a57da29](https://github.com/matrixui/core/commit/a57da297a366df2528f81feac56aaad02e5ceb09))
+
 ## [1.0.3](https://github.com/matrixui/core/compare/v1.0.2...v1.0.3) (2024-09-07)
 
 
