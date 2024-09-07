@@ -12,6 +12,6 @@ type Story = StoryObj<typeof Button>;
 export const Primary: Story = {
   args: {
     label: "Create New Account",
-    onClick: () => console.log("Clicked :)"),
+    onClick: () => console.log("Clicked 1 :)"),
   },
 };
