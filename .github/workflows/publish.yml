@@ -3,7 +3,7 @@ name: Publish Package to npm
 on:
   push:
     branches:
-      - main
+      - master
   workflow_dispatch: # Allows manual trigger
   release:
     types: [published] # Trigger on GitHub release
