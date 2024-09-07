@@ -4,9 +4,6 @@ on:
   push:
     branches:
       - master
-  workflow_dispatch: # Allows manual trigger
-  release:
-    types: [published] # Trigger on GitHub release
 
 jobs:
   build-and-publish:
